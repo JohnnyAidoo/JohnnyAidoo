@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Banner Image](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)  ---
 
 
 **JohnnyAidoo/JohnnyAidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
