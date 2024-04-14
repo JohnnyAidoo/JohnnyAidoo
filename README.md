@@ -63,5 +63,7 @@ Hey there! I'm Johnny, a Web and Mobile developer who loves working with code an
 
 #
 
+P.S. If you want to make a GitHub profile README like this, check out this [website] 😊
+
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/@JohnnyAidoo
