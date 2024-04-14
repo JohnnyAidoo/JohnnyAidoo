@@ -52,12 +52,14 @@ Hey there! I'm Johnny, a Web and Mobile developer who loves working with code an
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<div>
-[![Building a Better ''Notion'' App](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=mpsvmBs7Qbo)
+[![Building a Better ''Notion'' App](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=mpsvmBs7Qbo) | [![... So I bought My first ever MacBook || Is it worth the hype!](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0f-hzOY59VA)   -------------------- | --------------------
+[Link 3](link3.html) | [Link 4 (Longer Text)](link4.html)   ```
 
-[![... So I bought My first ever MacBook || Is it worth the hype!](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0f-hzOY59VA)
 
-</div>
+
+
+
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
