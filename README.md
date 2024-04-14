@@ -52,16 +52,7 @@ Hey there! I'm Johnny, a Web and Mobile developer who loves working with code an
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
-
-[![Building a Better ''Notion'' App](https://ytcards.demolab.com/?id=mpsvmBs7Qbo&title=Building+a+Better+%27%27Notion%27%27+App&lang=en&timestamp=1698979200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658 "Building a Better ''Notion'' App")](https://youtu.be/mpsvmBs7Qbo)
-
-[![Dev Startup EP 1 - I'm Coding a Platform to Learn to Code](https://ytcards.demolab.com/?id=enHiSbiuizM&title=Dev+Startup+EP+1+-+I%27m+Coding+a+Platform+to+Learn+to+Code&lang=en&timestamp=1678819200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=435 "Dev Startup EP 1 - I'm Coding a Platform to Learn to Code")](https://youtu.be/enHiSbiuizM)
-
-
-[![First look of my startup App || Skillzet](https://ytcards.demolab.com/?id=qTiClkcZRsI&title=First+look+of+my+startup+App+%7C%7C+Skillzet&lang=en&timestamp=1701696000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437 "First look of my startup App || Skillzet")](https://youtu.be/qTiClkcZRsI)
-
-
+[![Building a Better ''Notion'' App](https://ytcards.demolab.com/?id=mpsvmBs7Qbo&title=Building+a+Better+%27%27Notion%27%27+App&lang=en&timestamp=1698979200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658 "Building a Better ''Notion'' App")](https://youtu.be/mpsvmBs7Qbo)[![Dev Startup EP 1 - I'm Coding a Platform to Learn to Code](https://ytcards.demolab.com/?id=enHiSbiuizM&title=Dev+Startup+EP+1+-+I%27m+Coding+a+Platform+to+Learn+to+Code&lang=en&timestamp=1678819200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=435 "Dev Startup EP 1 - I'm Coding a Platform to Learn to Code")](https://youtu.be/enHiSbiuizM)[![First look of my startup App || Skillzet](https://ytcards.demolab.com/?id=qTiClkcZRsI&title=First+look+of+my+startup+App+%7C%7C+Skillzet&lang=en&timestamp=1701696000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437 "First look of my startup App || Skillzet")](https://youtu.be/qTiClkcZRsI)
 
 <!-- END YOUTUBE-CARDS -->
 
