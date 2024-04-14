@@ -1,3 +1,6 @@
+[![Banner Image](https://pbs.twimg.com/profile_banners/1612809460069666818/1713117503/1500x500)]
+
+
 ### Johnny Aidoo👋
 
 
