@@ -1,8 +1,14 @@
 ### Hi there 👋
 ![Banner Image](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)  ---
 
+Hi! I'm Johnny, a passionate Web and Mobile developer with a keen interest in Code, Attention to detail and UI/UX. I'm always eager to learn new things and contribute to challenging projects.
 
-**JohnnyAidoo/JohnnyAidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies I Use:
+[![JavaScript](https://img.shields.io/badge/javascript-%3E%3D-yellow.svg?style=for-flat)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg?style=for-flat)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/c%2B%2B-17-orange.svg?style=for-flat)](https://www.cplusplus.com/)
+
+
 
 Here are some ideas to get you started:
 
