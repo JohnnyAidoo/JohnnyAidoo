@@ -54,7 +54,7 @@ Hey there! I'm Johnny, a Web and Mobile developer who loves working with code an
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Building a Better ''Notion'' App](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=mpsvmBs7Qbo)
 
-[![... So I bought My first ever MacBook || Is it worth the hype!](https://i.ytimg.com/vi/hzOY59VA/maxresdefault.jpg)]([link_to_your_desired_page](https://www.youtube.com/watch?v=0f-hzOY59VA))
+[![... So I bought My first ever MacBook || Is it worth the hype!](https://i.ytimg.com/vi/hzOY59VA/maxresdefault.jpg)](https://www.youtube.com/watch?v=0f-hzOY59VA)
 
 
 <!-- END YOUTUBE-CARDS -->
