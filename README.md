@@ -52,13 +52,9 @@ Hey there! I'm Johnny, a Web and Mobile developer who loves working with code an
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Building a Better ''Notion'' App](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=mpsvmBs7Qbo) | [![... So I bought My first ever MacBook || Is it worth the hype!](https://i.ytimg.com/vi/mpsvmBs7Qbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0f-hzOY59VA)   -------------------- | --------------------
-[Link 3](link3.html) | [Link 4 (Longer Text)](link4.html)   ```
 
 
-
-
-
+[Building a Better ''Notion'' App](https://ytcards.demolab.com/?id=mpsvmBs7Qbo&title=Building+a+Better+%27%27Notion%27%27+App&lang=en&timestamp=1698979200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658)
 
 <!-- END YOUTUBE-CARDS -->
 
