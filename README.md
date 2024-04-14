@@ -56,6 +56,11 @@ Hey there! I'm Johnny, a Web and Mobile developer who loves working with code an
 
 [![Building a Better ''Notion'' App](https://ytcards.demolab.com/?id=mpsvmBs7Qbo&title=Building+a+Better+%27%27Notion%27%27+App&lang=en&timestamp=1698979200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658 "Building a Better ''Notion'' App")](https://youtu.be/mpsvmBs7Qbo)
 
+[![... So I bought My first ever MacBook || Is it worth the hype!](https://ytcards.demolab.com/?id=hzOY59VA&title=...+So+I+bought+My+first+ever+MacBook+%7C%7C+Is+it+worth+the+hype%21&lang=en&timestamp=1736956800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=430 "So I bought My first ever MacBook || Is it worth the hype!")](https://youtu.be/hzOY59VA)
+
+[![First look of my startup App || Skillzet](https://ytcards.demolab.com/?id=qTiClkcZRsI&title=First+look+of+my+startup+App+%7C%7C+Skillzet&lang=en&timestamp=1701696000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437 "First look of my startup App || Skillzet")](https://youtu.be/qTiClkcZRsI)
+
+
 
 <!-- END YOUTUBE-CARDS -->
 
